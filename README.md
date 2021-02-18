@@ -21,9 +21,7 @@ I am a passionate self-taught programmer from India.
 
 - 💬 Ask me about anything [here](https://discord.gg/YGhbpvNzmX)
 - 📫 Add Me On Discord? ! @Yashraj OPᵈᵉᵛ✓#1288
-- 🥅 2020 Goals Make open sourceproject for everyone!
-- 🙂 2020 Goals Helping people who don't know codding!
-- 💕 2020 Goals Making lots of friends!
+
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
